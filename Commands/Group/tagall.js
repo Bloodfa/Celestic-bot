@@ -1,5 +1,5 @@
 module.exports = {
-  name: "tagall",
+  name: "wakeup",
   alias: ["tag", "all"],
   desc: "Tag all group member",
   category: "Group",
